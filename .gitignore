@@ -1,7 +1,10 @@
 # ignore csv files
 *.csv
 # ignore folders
+figures/
 
+#ignore r project file
+*.Rproj
 
 # History files
 .Rhistory
